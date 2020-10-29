@@ -10,3 +10,6 @@
    * [1.7 Markdown](chapter01_computer-skills/1.7_markdown.md)
    * [1.8 Web技术](chapter01_computer-skills/1.8_web.md)
 
+* 2\. English
+   * [2.1 冠词的使用](chapter02_english/2.1_article.md)
+   * [2.2 如何背英文文章？](chapter02_english/2.2_recite.md)
