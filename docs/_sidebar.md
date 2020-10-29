@@ -1,4 +1,4 @@
-* [简介](../README.md)
+* [简介](https://gitee.com/jankin987/docsify/blob/master/README.md)
 * [阅读指南](read_guide.md)
 * 1\. Computer Skills
    * [1.1 装完操作系统后的常规步骤](chapter01_computer-skills/1.1_after-installed-ubuntu.md)
