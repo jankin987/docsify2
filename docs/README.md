@@ -31,19 +31,19 @@ docsify serve docs
 ## 目录
 * [简介]()
 * [阅读指南](read_guide.md)
-* 1\. ubuntu操作系统配置
-   * [1.1 装完操作系统后的常规步骤](https://jankin987.gitee.io/docsify/#/chapter01_computer-skills/1.1_after-installed-ubuntu)
-   * [1.2 装驱动和cuda](https://jankin987.gitee.io/docsify/#/chapter01_computer-skills/1.2_nvidia_driver.md)
-   * [1.3 smb](https://jankin987.gitee.io/docsify/#/chapter01_computer-skills/1.3_smb.md)
-   * [1.4 docker](https://jankin987.gitee.io/docsify/#/chapter01_computer-skills/1.4_docker.md)
-   * [1.5 远程技术](https://jankin987.gitee.io/docsify/#/chapter01_computer-skills/1.5_remote.md)
-   * [1.6 sublime text](https://jankin987.gitee.io/docsify/#/chapter01_computer-skills/1.6_sublime.md)
-   * [1.7 Markdown](https://jankin987.gitee.io/docsify/#/chapter01_computer-skills/1.7_markdown.md)
-   * [1.8 Web技术](https://jankin987.gitee.io/docsify/#/chapter01_computer-skills/1.8_web.md)
+* 1\. Computer Skills
+   * [1.1 装完操作系统后的常规步骤](chapter01_computer-skills/1.1_after-installed-ubuntu.md)
+   * [1.2 装驱动和cuda](chapter01_computer-skills/1.2_nvidia_driver.md)
+   * [1.3 smb](chapter01_computer-skills/1.3_smb.md)
+   * [1.4 docker](chapter01_computer-skills/1.4_docker.md)
+   * [1.5 远程技术](chapter01_computer-skills/1.5_remote.md)
+   * [1.6 sublime text](chapter01_computer-skills/1.6_sublime.md)
+   * [1.7 Markdown](chapter01_computer-skills/1.7_markdown.md)
+   * [1.8 Web技术](chapter01_computer-skills/1.8_web.md)
 
 * 2\. English
-   * [2.1 冠词的使用]((https://jankin987.gitee.io/docsify/#/chapter02_english/2.1_article.md)
-   * [2.2 如何背英文文章？]((https://jankin987.gitee.io/docsify/#/chapter02_english/2.2_recite.md)
+   * [2.1 冠词的使用](chapter02_english/2.1_article.md)
+   * [2.2 如何背英文文章？](chapter02_english/2.2_recite.md)
 
 
 

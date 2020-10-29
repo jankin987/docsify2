@@ -42,8 +42,8 @@ docsify serve docs
    * [1.8 Web技术](https://jankin987.gitee.io/docsify/#/chapter01_computer-skills/1.8_web.md)
 
 * 2\. English
-   * [2.1 冠词的使用]((https://jankin987.gitee.io/docsify/#/chapter02_english/2.1_article.md)
-   * [2.2 如何背英文文章？]((https://jankin987.gitee.io/docsify/#/chapter02_english/2.2_recite.md)
+   * [2.1 冠词的使用](https://jankin987.gitee.io/docsify/#/chapter02_english/2.1_article.md)
+   * [2.2 如何背英文文章？](https://jankin987.gitee.io/docsify/#/chapter02_english/2.2_recite.md)
 
 
 
