@@ -8,4 +8,5 @@
    * [1.5 远程技术](chapter01_computer-skills/1.5_remote.md)
    * [1.6 sublime text](chapter01_computer-skills/1.6_sublime.md)
    * [1.7 Markdown](chapter01_computer-skills/1.7_markdown.md)
+   * [1.8 Web技术](chapter01_computer-skills/1.8_web.md)
 
