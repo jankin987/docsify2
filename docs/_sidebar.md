@@ -14,3 +14,8 @@
    * [2.1 冠词的使用](chapter02_english/2.1_article.md)
    * [2.2 如何背英文文章？](chapter02_english/2.2_recite.md)
    * [2.3 新概念一整理](chapter02_english/2.3_new_concept.md)
+   * [2.4 走遍美国](chapter02_english/2.4_listening.md)
+   * [2.5 实用生活口语](chapter02_english/2.5_practical.md)
+
+* 3\. Thinking
+   * [我的梦](chapter03_thinking/3.1_diedie.md)
