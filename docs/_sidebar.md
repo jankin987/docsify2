@@ -13,3 +13,4 @@
 * 2\. English
    * [2.1 冠词的使用](chapter02_english/2.1_article.md)
    * [2.2 如何背英文文章？](chapter02_english/2.2_recite.md)
+   * [2.3 新概念一整理](chapter02_english/2.3_new_concept.md)
