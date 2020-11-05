@@ -8,7 +8,7 @@
 ## 面向人群
 我自己
 
-## 食用方法 
+## 使用方法 
 ### 方法一
 本仓库包含一些latex公式，但github的markdown原生是不支持公式显示的，而docs文件夹已经利用[docsify](https://docsify.js.org/#/zh-cn/)被部署到了Gitee Pages上，所以查看文档最简便的方法就是直接访问[本项目网页版](https://jankin987.gitee.io/docsify)。当然如果你还想跑一下运行相关代码的话还是得把本项目clone下来，然后运行code文件夹下相关代码。
 
@@ -44,7 +44,12 @@ docsify serve docs
 * 2\. English
    * [2.1 冠词的使用](chapter02_english/2.1_article.md)
    * [2.2 如何背英文文章？](chapter02_english/2.2_recite.md)
+   * [2.3 新概念一整理](chapter02_english/2.3_new_concept.md)
+   * [2.4 走遍美国](chapter02_english/2.4_listening.md)
+   * [2.5 实用生活口语](chapter02_english/2.5_practical.md)
 
+* 3\. Thinking
+   * [我的梦](chapter03_thinking/3.1_diedie.md)
 
 
 持续更新中......
