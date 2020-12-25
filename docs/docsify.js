@@ -65,7 +65,7 @@
         {
           el: '#app',
           repo: '',
-          maxLevel: 6,
+          maxLevel: 3,
           subMaxLevel: 0,
           loadSidebar: null,
           loadNavbar: null,
