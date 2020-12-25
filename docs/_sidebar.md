@@ -9,6 +9,8 @@
    * [1.6 sublime text](chapter01_computer-skills/1.6_sublime.md)
    * [1.7 Markdown](chapter01_computer-skills/1.7_markdown.md)
    * [1.8 Web技术](chapter01_computer-skills/1.8_web.md)
+   * [1.9 win office安装](chapter01_computer-skills/1.9_winoffice.md)
+   * [1.10 Github笔记](chapter01_computer-skills/1.10_git.md)
 
 * 2\. English
    * [2.1 冠词的使用](chapter02_english/2.1_article.md)
