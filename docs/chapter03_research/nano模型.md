@@ -305,8 +305,8 @@ DataParallel(
             (depthwise): Conv2d(96, 96, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=96, bias=False)
             (pointwise): Conv2d(96, 96, kernel_size=(1, 1), stride=(1, 1), bias=False)
             (dwnorm): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
-            (pwnorm): BatchNorm2d(96, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
-            (act): LeakyReLU(negative_slope=0.1, inplace)
+
+·12(act): LeakyReLU(negative_slope=0.1, inplace)
           )
         )
       )

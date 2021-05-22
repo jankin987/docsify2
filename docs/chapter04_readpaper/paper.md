@@ -1,3 +1,49 @@
+
+
+## 论文整理
+
+会议
+注意力+siamese
+6，20,72,83，89，93,102,117,123,174
+
+siamese+rnn
+4 154
+
+
+期刊
+siamese+注意力
+59,112220，223，247
+
+
+## 20210507
+
+Transformer Tracking(Transformer跟踪)  大连理工 paper有 代码：tranasfoertracking
+Learning Spatio-Temporal Transformer for Visual Tracking  大连理工和微软合作  paper有  代码：stark
+
+Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation.   大连理工大学  paper有 代码：AlphaRefine
+
+Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking(Transformer与追踪器相遇：利用时间上下文进行可靠的视觉追踪)   中科院   paper有  代码：transformertrack
+
+learning target candidate association to keep track of what not to track  danelljan  paper有  代码：https://github.com/visionml/pytracking 有别的项目参考
+
+LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search.大连理工大学  paper没有  代码：https://github.com/cvpr-2021/lighttrack
+
+
+Graph Attention Tracking.  paper 有  code https://github.com/ohhhyeahhh/SiamGAT
+Rotation Equivariant Siamese Networks for Tracking.   paper有  code:https://github.com/dkgupta90/re-siamnet
+
+
+
+Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy.
+Learning to Filter: Siamese Relation Network for Robust Tracking.
+
+
+Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark  --->这个是个数据集
+
+
+
+## 20210301
+
 An Empirical Study of Spatial Attention Mechanisms in Deep Networks
 https://www.zhihu.com/question/319776669
 https://blog.csdn.net/liyu0611/article/details/102814457
